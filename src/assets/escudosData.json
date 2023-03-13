@@ -1,0 +1,166 @@
+{
+    "escudos": [
+        {
+            "id": 1,
+            "name": "Argentinos",
+            "avatar": "https://www.escudosfc.com.br/images/argentinos.png",
+            "Puntaje": 3
+        },
+        {
+            "id": 2,
+            "name": "Arsenal",
+            "avatar": "https://www.escudosfc.com.br/images/arsenal_arg.png",
+            "Puntaje": 2
+        },
+        {
+            "id": 3,
+            "name": "Belgrano",
+            "avatar": "https://www.escudosfc.com.br/images/belgrano.png",
+            "Puntaje": 0
+        },
+        {
+            "id": 4,
+            "name": "Boca",
+            "avatar": "https://www.escudosfc.com.br/images/bocc.png",
+            "Puntaje": 40
+        },
+        {
+            "id": 5,
+            "name": "Central Cordoba",
+            "avatar": "https://www.escudosfc.com.br/images/central_cord_santiago_arg.png",
+            "Puntaje": 35
+        },
+        {
+            "id": 6,
+            "name": "Colon",
+            "avatar": "https://www.escudosfc.com.br/images/colon.png",
+            "Puntaje": 55
+        },
+        {
+            "id": 7,
+            "name": "Defensa y Justicia",
+            "avatar": "https://www.escudosfc.com.br/images/defensayjusticia.png",
+            "Puntaje": 46
+        },
+        {
+            "id": 8,
+            "name": "Estudiantes",
+            "avatar": "https://www.escudosfc.com.br/images/estudic.png",
+            "Puntaje": 35
+        },
+        {
+            "id": 9,
+            "name": "Gimnasia y Esgrima LP",
+            "avatar": "https://www.escudosfc.com.br/images/glaplatc.png",
+            "Puntaje": 35
+        },
+        {
+            "id": 10,
+            "name": "Godoy Cruz MDZ",
+            "avatar": "https://www.escudosfc.com.br/images/godoycruz.png",
+            "Puntaje": 42
+        },
+        {
+            "id": 11,
+            "name": "Huracan",
+            "avatar": "https://www.escudosfc.com.br/images/huracanc.png",
+            "Puntaje": 22
+        },
+        {
+            "id": 12,
+            "name": "Independiente",
+            "avatar": "https://www.escudosfc.com.br/images/indepc.png",
+            "Puntaje": 62
+        },
+        {
+            "id": 13,
+            "name": "Instituto",
+            "avatar": "https://www.escudosfc.com.br/images/instituto.png",
+            "Puntaje": 100
+        },
+        {
+            "id": 14,
+            "name": "Lanus",
+            "avatar": "https://www.escudosfc.com.br/images/lanusc.png",
+            "Puntaje": 42
+        },
+        {
+            "id": 15,
+            "name": "Newells",
+            "avatar": "https://www.escudosfc.com.br/images/newelsc.png",
+            "Puntaje": 90
+        },
+        {
+            "id": 16,
+            "name": "Platense",
+            "avatar": "https://www.escudosfc.com.br/images/platensc.png",
+            "Puntaje": 5
+        },
+        {
+            "id": 17,
+            "name": "Racing",
+            "avatar": "https://www.escudosfc.com.br/images/racingc.png",
+            "Puntaje": 12
+        },
+        {
+            "id": 18,
+            "name": "River",
+            "avatar": "https://www.escudosfc.com.br/images/riverc.png",
+            "Puntaje": 75
+        },
+        {
+            "id": 19,
+            "name": "Rosario Central",
+            "avatar": "https://www.escudosfc.com.br/images/rosarioc.png",
+            "Puntaje": 50
+        },
+        {
+            "id": 20,
+            "name": "San Lorenzo",
+            "avatar": "https://www.escudosfc.com.br/images/san_loc.png",
+            "Puntaje": 0
+        },
+        {
+            "id": 21,
+            "name": "Sarmiento",
+            "avatar": "https://www.escudosfc.com.br/images/sarmiento_arg.png",
+            "Puntaje": 50
+        },
+        {
+            "id": 22,
+            "name": "Talleres",
+            "avatar": "https://www.escudosfc.com.br/images/talleres.png",
+            "Puntaje": 0
+        },
+        {
+            "id": 23,
+            "name": "Tigre",
+            "avatar": "https://www.escudosfc.com.br/images/tigre_arg.png",
+            "Puntaje": 8
+        },
+        {
+            "id": 24,
+            "name": "Union",
+            "avatar": "https://www.escudosfc.com.br/images/union_santa_fe.png",
+            "Puntaje": 7
+        },
+        {
+            "id": 25,
+            "name": "Velez",
+            "avatar": "https://www.escudosfc.com.br/images/velez.png",
+            "Puntaje": 15
+        },
+        {
+            "id": 24,
+            "name": "Atletico Tucuman",
+            "avatar": "https://www.escudosfc.com.br/images/attucuman.png",
+            "Puntaje": 32
+        },
+        {
+            "id": 24,
+            "name": "Banfield",
+            "avatar": "https://www.escudosfc.com.br/images/banfield.png",
+            "Puntaje": 24
+        }
+    ]
+}

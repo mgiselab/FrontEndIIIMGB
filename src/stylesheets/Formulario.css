@@ -1,0 +1,21 @@
+.caja-contenedora-form{
+    border-radius: 5pxS;
+    background-color:rgb(201 208 213);
+    width: 500px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    box-shadow: 0 3px 10px 1px rgb(15, 16, 17) ;
+}
+
+form{
+    display: grid;
+    justify-items: center;
+}
+
+input{
+    height: 25px;
+    border-radius: 5px;
+    width: 340px;
+}
+
